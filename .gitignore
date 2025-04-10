@@ -1,8 +1,13 @@
+# 바로가기
+server.lnk
+dev.lnk
+
 # 공통
 node_modules/
 .env
 .DS_Store
 Thumbs.db
+server
 
 # frontend
 frontend/node_modules/
